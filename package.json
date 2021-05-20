@@ -1,0 +1,22 @@
+{
+  "name": "cra-template-tailwind",
+  "version": "1.1.1",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "tailwind",
+    "tailwindcss"
+  ],
+  "description": "The template for Create React App with Tailwind CSS initialized.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kashishjain04/cra-template-tailwind.git"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
