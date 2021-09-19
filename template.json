@@ -1,5 +1,5 @@
 {
-  "package": {    
+  "package": {
     "dependencies": {
       "@craco/craco": "^6.1.2",
       "react": "^17.0.2",
@@ -7,13 +7,13 @@
       "react-scripts": "4.0.3"
     },
     "scripts": {
-      "start": "craco start",
+      "start": "TAILWIND_MODE=watch craco start",
       "build": "craco build",
       "test": "craco test",
       "eject": "react-scripts eject"
     },
     "eslintConfig": {
-        "extends": "react-app"
+      "extends": "react-app"
     },
     "devDependencies": {
       "autoprefixer": "^9",
